@@ -13,76 +13,61 @@ The purpose of this program is to explore the use of ActionListeners, MouseListe
 
 
 # Included Files and INSTRUCTIONS FOR USAGE OF FILES:
-README.txt
-Concentration.java
-Concentration.class
-Concentration$1.class
-Concentration$1.class
-Concentration$1.class
-Concentration$1.class
-Concentration$1.class
-Concentration$1.class
-Concentration$1.class
-Concentration$1.class
-Concentration$1.class
-Concentration$1.class
-Concentration$1.class
-Concentration$1.class
-Concentration$1.class
-Concentration$Card.class
-Screenshot.jpg
-cardImages <Folder>
-Ace of clubs.gif
-Ace of diamonds.gif
-Ace of hearts.gif
-Ace of spades.gif
-Back.gif
-Eight of clubs.gif
-Eight of diamonds.gif
-Eight of hearts.gif
-Eight of spades.gif
-Five of clubs.gif
-Five of diamonds.gif
-Five of hearts.gif
-Five of spades.gif
-Four of clubs.gif
-Four of diamonds.gif
-Four of hearts.gif
-Four of spades.gif
-Jack of clubs.gif
-Jack of diamonds.gif
-Jack of hearts.gif
-Jack of spades.gif
-King of clubs.gif
-King of diamonds.gif
-King of hearts.gif
-King of spades.gif
-Nine of clubs.gif
-Nine of diamonds.gif
-Nine of hearts.gif
-Nine of spades.gif
-Queen of clubs.gif
-Queen of diamonds.gif
-Queen of hearts.gif
-Queen of spades.gif
-Seven of clubs.gif
-Seven of diamonds.gif
-Seven of hearts.gif
-Seven of spades.gif
-Six of clubs.gif
-Six of diamonds.gif
-Six of hearts.gif
-Six of spades.gif
-Ten of clubs.gif
-Ten of diamonds.gif
-Ten of hearts.gif
-Ten of spades.gif
-Three of clubs.gif
-Three of diamonds.gif
-Three of hearts.gif
-Three of spades.gif
-Two of clubs.gif
-Two of diamonds.gif
+* README.txt
+* Concentration.java
+* Screenshot.jpg
+* cardImages <Folder>
+* Ace of clubs.gif
+* Ace of diamonds.gif
+* Ace of hearts.gif
+* Ace of spades.gif
+* Back.gif
+* Eight of clubs.gif
+* Eight of diamonds.gif
+* Eight of hearts.gif
+* Eight of spades.gif
+* Five of clubs.gif
+* Five of diamonds.gif
+* Five of hearts.gif
+* Five of spades.gif
+* Four of clubs.gif
+* Four of diamonds.gif
+* Four of hearts.gif
+* Four of spades.gif
+* Jack of clubs.gif
+* Jack of diamonds.gif
+* Jack of hearts.gif
+* Jack of spades.gif
+* King of clubs.gif
+* King of diamonds.gif
+* King of hearts.gif
+* King of spades.gif
+* Nine of clubs.gif
+* Nine of diamonds.gif
+* Nine of hearts.gif
+* Nine of spades.gif
+* Queen of clubs.gif
+* Queen of diamonds.gif
+* Queen of hearts.gif
+* Queen of spades.gif
+* Seven of clubs.gif
+* Seven of diamonds.gif
+* Seven of hearts.gif
+* Seven of spades.gif
+* Six of clubs.gif
+* Six of diamonds.gif
+* Six of hearts.gif
+* Six of spades.gif
+* Ten of clubs.gif
+* Ten of diamonds.gif
+* Ten of hearts.gif
+* Ten of spades.gif
+* Three of clubs.gif
+* Three of diamonds.gif
+* Three of hearts.gif
+* Three of spades.gif
+* Two of clubs.gif
+* Two of diamonds.gif
 * Two of hearts.gif
 * Two of spades.gif
 * Red Joker.png
