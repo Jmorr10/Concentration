@@ -2,6 +2,11 @@ Name: Joseph Morris
 Project #3, Concentration
 Date: 11-23-10
 
+# Note:
+This code has not been edited or maintained since it was written. It serves as an early example of my explorations in coding.
+
+![Screenshot](Screenshot.jpg "Screenshot of the program")
+
 # Description:
 
 The purpose of this program is to explore the use of ActionListeners, MouseListeners, ActionEvents, GUI's, and basic computer AI through the creation of a classic card game known as concentration.NOTES ON GRAPHICS: The “cards” are JLabels that have been assigned an image. The images for the cards are open source and therefore can be used freely in the program. Multiple JPanels are used and positioned on the JFrame. Various layouts (especially GridBagLayout) are used to positions the elements on the content pane. An activity log is displayed to keep the user informed of the activity of the program. In addition, when the user goes to select cards, a mouseListener is added to the JLabels to enable the user to click on the cards that they want to select. SEE NOTES SECTION FOR MORE INFORMATION ON THE COMPUTER GAME AI AND EXTRAS!
@@ -78,10 +83,10 @@ Three of hearts.gif
 Three of spades.gif
 Two of clubs.gif
 Two of diamonds.gif
-Two of hearts.gif
-Two of spades.gif
-Red Joker.png
-Black Joker.png
+* Two of hearts.gif
+* Two of spades.gif
+* Red Joker.png
+* Black Joker.png
 
 README.txt:
 This file.
@@ -89,10 +94,10 @@ This file.
 Concentration.java:
 This class contains the methods and subclasses needed for the card game to function.
 
-Parts Implemented:
+# Parts Implemented:
 All required elements implemented.
 
-Parts Not Implemented:
+# Parts Not Implemented:
 Variations (Extra)
 
 # Notes:
@@ -106,9 +111,9 @@ The computer is given two "memories". One for the cards that it has flipped over
 # Known Bugs:
 There are no known bugs.
 
-Extra Credit:
+# Extra Credit:
 See Notes.
 
-Sample Output:
+# Sample Output:
  
 Please see screenshot for sample output.
